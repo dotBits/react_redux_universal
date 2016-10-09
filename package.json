@@ -23,11 +23,15 @@
     "pug": "^2.0.0-beta6",
     "react": "^15.3.2",
     "react-dom": "^15.3.2",
+    "react-headroom": "^2.1.2",
+    "react-hot-loader": "^3.0.0-beta.5",
     "react-intl": "^2.1.5",
     "react-redux": "^4.4.5",
     "react-router": "^2.8.1",
+    "react-select": "^1.0.0-rc.2",    
     "redux": "^3.6.0",
-    "redux-thunk": "^2.1.0"
+    "redux-thunk": "^2.1.0",
+    "superagent": "^2.3.0"
   },
   "devDependencies": {
     "bootstrap": "^3.3.7",
@@ -41,11 +45,7 @@
     "history": "^4.3.0",
     "jquery": "^3.1.1",
     "notie": "^3.9.4",
-    "react-headroom": "^2.1.2",
-    "react-hot-loader": "^3.0.0-beta.5",
-    "react-select": "^1.0.0-rc.2",
     "redux-logger": "^2.6.1",
-    "superagent": "^2.3.0",
     "webpack": "^1.13.2",
     "webpack-dev-middleware": "^1.8.2",
     "webpack-dev-server": "^1.16.1",
